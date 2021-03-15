@@ -1,6 +1,6 @@
 ## "Место(REACT)"
 
-## [Ссылка на проектную работу](https://Nastena-na.github.io/First-React)
+## [Ссылка на проектную работу](https://github.com/Nastena-na/First-React)
 
 текущая версия - 0.0.1
 Данный проект написан на React. [Был реализован ранее на нативном JS](https://github.com/Nastena-na/Sprint11).
